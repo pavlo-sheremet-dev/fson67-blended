@@ -80,6 +80,6 @@ export const UserName = styled.h3`
   margin-bottom: ${props => props.theme.spacing(1)};
 `;
 
-export const Date = styled.small`
+export const DatePosted = styled.small`
   color: ${props => props.theme.colors.gray};
 `;
