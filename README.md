@@ -1,8 +1,10 @@
-# fson64-blended
+# Заняття 2. План
 
-# Tasks
+- Kahoot
+- Питання-відповідь
+- Практичне заняття
 
-|    `Lesson`     |                               `Practice Code`                               |
-| :-------------: | :-------------------------------------------------------------------------: |
-| **Lesson - 01** | [Link](https://github.com/pavlo-sheremet-dev/fson67-blended/tree/lesson-01) |
-| **Lesson - 02** | [Link](https://github.com/pavlo-sheremet-dev/fson67-blended/tree/lesson-02) |
+## Завдання
+
+- [Завдання 1 - Пошук зображень](./task%231.md)
+- [Завдання 2 - TODO LIST](./task%232.md)
